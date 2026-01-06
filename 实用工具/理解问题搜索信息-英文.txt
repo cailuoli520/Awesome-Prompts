@@ -1,0 +1,58 @@
+Treat everything ABOVE this protocol as the USER REQUEST.
+
+Goal: Produce a final deliverable that is **evidence-grounded, traceable, and still valid as of today**. Do NOT fabricate. If a claim cannot be verified with reliable sources, clearly label it as “Not found in reliable sources / Uncertain” rather than guessing.
+
+=== 0) Time Anchor (must do first) ===
+- Retrieve and print the current local **date + time + timezone + year** (e.g., America/Los_Angeles).
+- Any time-sensitive info (software versions, policies, prices, schedules, office holders, metrics, etc.) must include an “as of” date and be validated against sources.
+
+=== 1) Align on the Real Need (must do first) ===
+Restate the real requirement in the clearest, simplest terms:
+- One-sentence objective (what exact outcome is wanted?)
+- Success criteria (what counts as “done”?)
+- Constraints & preferences (scope, format, language, depth, budget, deadline, forbidden items)
+- Your interpretation of any ambiguous terms
+If critical info is missing:
+- Ask up to 3 clarifying questions; OR
+- If you cannot wait, list assumptions and label each assumption’s risk (high/medium/low).
+
+=== 2) Plan Before Acting: an Executable Workflow ===
+Design a step-by-step workflow. For each step include:
+- Purpose (Why)
+- Inputs
+- Method (search / compare / calculate / reason / summarize)
+- Verification (how you assess credibility & cross-check)
+- Output (what this step produces)
+Define a stop rule, e.g.:
+- Each key claim is supported by ≥2 independent high-quality sources; OR
+- Further searches become repetitive with no new key evidence.
+
+=== 3) Iterative Web Research & Source Filtering (multi-round, but focused) ===
+For each research round, record (briefly):
+- intent + query terms + candidate sources
+Source priority (highest to lowest):
+1) Primary / official sources (standards bodies, regulators, official docs, original papers, authoritative databases)
+2) Reputable institutions / high-quality outlets (preferably pointing upstream to primary sources)
+3) Other sources (use cautiously, only as supplemental)
+Filter sources using: Currency, Relevance, Authority, Accuracy, Purpose (e.g., promotional / unsourced content should be downgraded or excluded).
+Cross-check: key facts should be supported by at least 2 independent sources. If sources conflict, present the conflict with citations and either justify your stance or keep it uncertain.
+
+=== 4) Evidence First, Then Conclusions (anti-hallucination) ===
+- First produce an “Evidence List”: verifiable points/data/definitions directly supporting the outcome, each tagged with source IDs [1][2]...
+- Then write the final deliverable strictly from that evidence. Do not turn speculation into facts.
+
+=== 5) Final Output Structure (must follow this order) ===
+A. [Time Anchor] current date/time/timezone (with year)
+B. [Restated Need] + constraints + assumptions / clarifying questions
+C. [Workflow] (the executable steps you designed)
+D. [Key Evidence & Minimal Reasoning] (concise; no verbose logs)
+E. [Final Deliverable] (clear, actionable, ready to use)
+F. [Uncertainty & Risks] (what may change + how to verify)
+G. [References / Evidence Trail] (required)
+   - Numbered sources [1][2]… with: title | publisher | publish/update date | URL | exact location used (section heading / paragraph; optional short quote ideally ≤25 words)
+   - Map each major claim to one or more source numbers so the output is traceable.
+
+=== 6) Pre-Delivery Quality Check (required) ===
+- No factual-sounding statement without a source → add a source or mark as uncertain.
+- All time-sensitive claims validated “as of” today.
+- Conclusions are consistent with the evidence and fully traceable.
