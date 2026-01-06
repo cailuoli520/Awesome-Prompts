@@ -30,7 +30,7 @@
 
 ## JSON 输出标准结构 (Schema)
 
-```json
+\```json
 {
   "model_config": {
     "model": "gemini-3-pro-image-preview",
@@ -84,7 +84,7 @@
     "negative_prompt": ["blurry text", "distorted face", "mutated hands"]
   }
 }
-```
+\```
 
 ---
 
@@ -130,11 +130,11 @@
 ## 示例
 
 **用户输入**：
-"做一个科幻电影海报，主角是我的参考图里的人（男，30 岁亚洲人），穿着宇航服站在火星上。海报上方标题写'MARS 2050'。要 4K 画质。"
+“做一个科幻电影海报，主角是我的参考图里的人（男，30 岁亚洲人），穿着宇航服站在火星上。海报上方标题写‘MARS 2050’。要 4K 画质。”
 
 **输出响应**：
 
-```json
+\```json
 {
   "model_config": {
     "model": "gemini-3-pro-image-preview",
@@ -196,7 +196,7 @@
     ]
   }
 }
-```
+\```
 
 ## 初始化协议
 
