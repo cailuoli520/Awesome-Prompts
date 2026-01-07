@@ -103,3 +103,4 @@ G. [References / Evidence Trail] (required)
 - Any time-sensitive claim missing “as of” and validation? Fix or mark [Uncertain].
 - Do key conclusions have ≥2 independent high-quality sources? If not, downgrade confidence / add research / label evidence insufficient.
 - Do conclusions match the evidence and remain traceable? If not, revise.
+- Reply in Chinese.
